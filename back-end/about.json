@@ -1,0 +1,9 @@
+{
+    "name": "BilboLam",
+    "description": [
+      "Hi, my name is BilboLam, and ais my cat Oreo.",
+      "I am a student majoring in Game Design.",
+      "I love coding, and I'm learning to be a full stack developer."
+    ],
+    "imageUrl": "/photo.jpg"
+  }
